@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<beatmakerPack>
+  <pad1 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad1.mp3" />
+  <pad2 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad2.mp3" />
+  <pad3 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad3.mp3" />
+  <pad4 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad4.mp3" />
+  <pad5 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad5.mp3" />
+  <pad6 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad6.mp3" />
+  <pad7 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad7.mp3" />
+  <pad8 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad8.mp3" />
+  <pad9 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad9.mp3" />
+  <pad10 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad10.mp3" />
+  <pad11 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad11.mp3" />
+  <pad12 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad12.mp3" />
+  <pad13 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad13.mp3" />
+  <pad14 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad14.mp3" />
+  <pad15 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad15.mp3" />
+  <pad16 pathSample="/sdcard/BeatMakerSong/default_pack/default_pad16.mp3" />
+</beatmakerPack>

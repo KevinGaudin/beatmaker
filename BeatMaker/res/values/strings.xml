@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">BeatMaker</string>
+
+
+
+<string name="startapp">Welcome to BeatMaker</string>
+
+<string name="intro">Make your Android phone a sampler</string>
+<string name="Button01">Play sampler</string>
+<string name="Button02">Download packs</string>
+<string name="startsampler">Sampler is started</string>
+</resources>

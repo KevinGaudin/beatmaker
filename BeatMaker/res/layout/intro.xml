@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent" 
+  android:layout_height="fill_parent">
+  
+<TextView android:id="@+id/Titre"
+	android:layout_height="wrap_content" 
+	android:text="@string/app_name" 
+	android:layout_marginTop="20px" 
+	android:textSize="40px" 
+	android:typeface="serif" 
+	android:textStyle="bold" 
+	android:layout_centerHorizontal="true" 
+	android:layout_width="wrap_content"></TextView>
+	
+<TextView android:id="@+id/sousTitre" 
+	android:layout_width="wrap_content"  
+	android:layout_centerHorizontal="true" 
+	android:layout_height="wrap_content" 
+	android:layout_below="@+id/Titre" 
+	android:typeface="serif"
+	android:text="@string/intro" android:paddingBottom="40px"></TextView>
+
+<Button android:id="@+id/Button01"
+	android:layout_width="wrap_content" 
+	android:layout_centerHorizontal="true" 
+	android:layout_height="wrap_content" 
+	android:layout_below="@+id/sousTitre"  
+	android:text="@string/Button01" 
+	android:typeface="serif"></Button>
+
+<Button android:id="@+id/Button02"
+	android:layout_width="wrap_content"  
+	android:layout_centerHorizontal="true" 
+	android:layout_height="wrap_content" 
+	android:layout_below="@+id/Button01" 
+	android:text="@string/Button02" 
+	android:typeface="serif"></Button>
+	
+</RelativeLayout>
