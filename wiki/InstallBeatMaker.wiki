@@ -1,0 +1,6 @@
+#labels Phase-Deploy
+#An easy way to install BeatMaker on your Android platform.
+
+1. Download the last file 'BeatMaker.apk' on the Download section.
+2. Open the file with ApkInstaller or ASTRO File Manager.
+3. After installation, launch BeatMaker.
